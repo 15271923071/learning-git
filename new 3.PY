@@ -1,0 +1,4 @@
+﻿print ("hello")
+print ("A")
+print ("B")
+print ("D")
